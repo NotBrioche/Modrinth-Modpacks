@@ -1,6 +1,6 @@
 # Minecraft Modpacks
 
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20+-blue)](https://minecraft.wiki/w/Java_Edition_version_history)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.1-blue)](https://minecraft.wiki/w/Java_Edition_version_history)
 [![Modpacks](https://img.shields.io/badge/Modpacks-3-orange)](#modpacks)
 [![Status](https://img.shields.io/badge/Status-In--Development-red)](#)
 [![Loader](https://img.shields.io/badge/Mod--Loader-Fabric-lightyellow)](#)
@@ -43,11 +43,11 @@ Then import the modpack with the file
 
 # Customization
 
-Some mods are present in every modpack like [Custom HUD](https://modrinth.com/mod/customhud), they offer a good experience with a great range for customization. Presets are made in the modpacks but you can change it anytime with [Mod Menu](https://modrinth.com/mod/modmenu). Here is a list for [Customizable Mods](modpacks/general.md#Customizable-mods)
+Some mods are present in every modpack like [Custom HUD](https://modrinth.com/mod/customhud) or [Shared Resources](#), they offer a good experience with a great range for customization. Presets are made in the modpacks but you can change it anytime, there is a list for [very useful mods](modpacks/general.md) and how to use them.
 
 # Updating mods
 
-From what I know it is not possible to directy update a modpack for a new version on [Modrinth](https://modrinth.com), if you need to update versions you can use my modpacks. I will be updating frequently for newer versions with informations on the non-avalible mods. Once you.ve downloaded the modpack **do not update the mods**, it will surely break.
+[Modrinth](https://modrinth.com) have an option to directly update the version but I don't recommand it for you, if you try updating mods directly older mods will be ignored and after updating everything you will likely end with a conflict. I will be updating frequently for newer versions with informations on the non-avalible mods.
 
 # Participating
 
