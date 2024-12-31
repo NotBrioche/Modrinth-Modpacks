@@ -1,7 +1,7 @@
 # Minecraft Modpacks
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20+-blue)](https://minecraft.wiki/w/Java_Edition_version_history)
-[![Modpacks](https://img.shields.io/badge/Modpacks-6-orange)](#modpacks)
+[![Modpacks](https://img.shields.io/badge/Modpacks-3-orange)](#modpacks)
 [![Status](https://img.shields.io/badge/Status-In--Development-red)](#)
 [![Loader](https://img.shields.io/badge/Mod--Loader-Fabric-lightyellow)](#)
 

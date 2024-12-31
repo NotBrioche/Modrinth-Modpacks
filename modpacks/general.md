@@ -6,10 +6,9 @@ There is two mods I absolutely recommand for everybody, [Custom Hud](#) and [Sha
 
 This mod lets you create a HUD with a very high customization, here are some example all from the same mod.
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap">
-<img src="../images/example-1.gif" width=350px>
-<img src="../images/example-2.gif" width=350px>
-<img src="../images/example-1.gif" width=350px>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+<img src="../images/example-1.gif" width='50%'>
+<img src="../images/example-2.gif" width='50%'>
 </div>
 
 The [documentation](https://customhud.dev/#docs) is here!
