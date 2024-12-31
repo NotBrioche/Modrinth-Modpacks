@@ -1,8 +1,11 @@
 # Very useful mods
+
 There is two mods I absolutely recommand for everybody, [Custom Hud](#) and [Shared ressources](#), if you dont know what they are doing, le me eplain it below.
 
 # Custom HUD
+
 This mod lets you create a HUD with a very high customization, here are some example all from the same mod.
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap">
 <img src="../images/example-1.gif" width=350px>
 <img src="../images/example-2.gif" width=350px>
@@ -12,8 +15,11 @@ This mod lets you create a HUD with a very high customization, here are some exa
 The [documentation](https://customhud.dev/#docs) is here!
 
 # Shared ressources
+
 Shared ressources is a mad that allows you to change the location of somes folders used by the modpack
+
 ## Setup
+
 This is the part you don't want to mess up, on the first launch the mod will show you this popup  
 <img src="../images/shared-ressources.gif">
 
