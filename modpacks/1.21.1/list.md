@@ -1,5 +1,5 @@
+[All Modpacks](../modpacks.md)
 # Contents
-
 - [Classic](classic.md)
 - [Datapack](datapack.md)
 - [Plugin](plugin.md)
@@ -10,7 +10,7 @@
 These mods are present on every Modpack
 
 | Name                             | Quick description                                                                            | Can I support ? |
-|----------------------------------|----------------------------------------------------------------------------------------------|-----------------|
+| -------------------------------- | -------------------------------------------------------------------------------------------- | --------------- |
 | Shared ressources (desactivated) | make the modpack use another location for ressources [more](../general.md#shared-ressources) | Ko-fi           |
 | Cubes Whitout Borders            | Play with borderless window                                                                  | No              |
 | Custom HUD                       | Highly customizable text-based HUD [more](../general.md#custom-hud)                          | Ko-fi           |
@@ -21,7 +21,7 @@ These mods are present on every Modpack
 
 This is the list of every mods
 | Name                             | Can I support ?                | Which modpack ?   |
-|----------------------------------|--------------------------------|-------------------|
+| -------------------------------- | ------------------------------ | ----------------- |
 | Shared ressources (desactivated) | Ko-fi                          | All               |
 | Essential (desactivated)         | No                             | Classic           |
 | Sodium                           | Ko-fi, Donation                | All               |
@@ -29,7 +29,7 @@ This is the list of every mods
 | Custom HUD                       | Ko-fi                          | All               |
 | Cubes Whitout Borders            | No                             | All               |
 | Lithium                          | Petreon                        | Classic, Plugin   |
-| ImediatlyFast                    | Ko-fi                          | Classic, Plugin   |
+| ImmediatlyFast                   | Ko-fi                          | Classic, Plugin   |
 | ModernFix                        | Ko-fi                          | Classic, Plugin   |
 | FerriteCore                      | No                             | Classic, Plugin   |
 | Entity Culling                   | Ko-fi                          | Classic, Plugin   |
@@ -63,6 +63,4 @@ This is the list of every mods
 | Datamancer                       | No                             | Datapack          |
 | Creative Fly                     | Donation                       | Datapack          |
 | Quick Menu                       | No                             | Datapack          |
-| ViaBackwards                     | Github sponsor                 | Plugin            |
-| ViaVersion                       | GitHub sponsor                 | Plugin            |
 | ViaFabricPlus                    | Playpal, Ko-fi, GitHub sponsor | Plugin            |

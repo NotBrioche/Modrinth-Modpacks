@@ -12,14 +12,14 @@ Welcome to the repo ! This project is designed to share my modpacks I'm using fo
 # Features
 
 I made 4 modpack for players you to use, feel free to modify them as you need but it should be covering most use cases.
-| Modpack               | Features                                       |
-|-----------------------|------------------------------------------------|
-| [Classic](#modpacks)  | Optimisations, Texture pack compatibility, PVP |
-| [Datapack](#modpacks) | Build, Datapack creation, Online forwarding    |
-| [Plugin](#modpacks)   | Lightweight, Network Optimisations             |
-| [All](#modpacks)      | Contains all the mods from modpacks            |
+| Modpack      | Features                                       |
+| ------------ | ---------------------------------------------- |
+| **Classic**  | Optimisations, Texture pack compatibility, PVP |
+| **Datapack** | Build, Datapack creation, Online forwarding    |
+| **Plugin**   | Lightweight, Network Optimisations             |
+| **All**      | Contains all the mods from modpacks            |
 
-If you want to see a list of all the mods for each modpack, there is a list [here](#).
+If you want to see a list of all the mods for each modpack, there is a list [here](modpacks/modpacks.md).
 
 ## Compatibility
 
@@ -37,9 +37,9 @@ Then import the modpack with the file
 
 # Modpacks
 
-| Version | Classic                                                | Datapack                                                 | Plugin      | All      | Mods list                       |
-|---------|--------------------------------------------------------|----------------------------------------------------------|-------------|----------|---------------------------------|
-| 1.21.1  | [Classic](modpacks/1.21.1/Classic%20-%201.21.1.mrpack) | [Datapack](modpacks/1.21.1/Datapack%20-%201.21.1.mrpack) | [Plugin](#) | [All](#) | [Mods](modpacks/1.21.1/list.md) |
+| Version | Classic                                          | Datapack                                           | Plugin                                         | All                                      | Mods list                       |
+| ------- | ------------------------------------------------ | -------------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ------------------------------- |
+| 1.21.1  | [Classic](modpacks/1.21.1/mrpack/Classic.mrpack) | [Datapack](modpacks/1.21.1/mrpack/Datapack.mrpack) | [Plugin](modpacks/1.21.1/mrpack/Plugin.mrpack) | [All](modpacks/1.21.1/mrpack/All.mrpack) | [Mods](modpacks/1.21.1/list.md) |
 
 # Customization
 

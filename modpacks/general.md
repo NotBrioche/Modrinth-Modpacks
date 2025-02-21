@@ -26,7 +26,7 @@ On the `global directory` option, I recommand to change it for the `.minecraft` 
 
 Here is an explanation for every field in the parameters :
 | Name             | Description                                             |
-|------------------|---------------------------------------------------------|
+| ---------------- | ------------------------------------------------------- |
 | Global directory | The path the mod will use to redirect selected elements |
 | config           | The configuration file of mods                          |
 | datapacks        | The datapacks you can select while creating a new world |
